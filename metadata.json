@@ -1,0 +1,5 @@
+{
+  "name": "OBATECH Ai Upscaler",
+  "description": "An advanced AI-powered image upscaler. Upload an image, select your target resolution (2K or 4K), and let the AI enhance its quality and detail, providing a high-resolution version for download.",
+  "requestFramePermissions": []
+}
